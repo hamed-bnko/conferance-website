@@ -1,0 +1,12 @@
+.timer {
+  padding: 10px 20px;
+  margin-top: 4rem;
+  font-size: 1.4rem;
+  background-color: rgba(62, 79, 155, 0.7);
+}
+
+@media screen and (max-width: 800px) {
+  .timer {
+    padding: 5px 8px;
+  }
+}

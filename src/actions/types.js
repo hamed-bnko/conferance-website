@@ -1,0 +1,8 @@
+export const GET_RESEARCHS = "GET_RESEARCHS";
+export const GET_RESEARCH = "GET_RESEARCH";
+export const RESEARCH_ERROR = "RESEARCH_ERROR";
+export const ADD_RESEARCH = "ADD_RESEARCH";
+export const UPDATE_RESEARCH = "UPDATE_RESEARCH";
+export const CHANGE_LANG = "CHANGE_LANG";
+export const SET_ALERT = "SET_ALERT";
+export const REMOVE_ALERT = "REMOVE_ALERT";
