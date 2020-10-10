@@ -79,9 +79,9 @@ const Regester = ({ lang, setAlert, addAbstruct }) => {
   };
 
   let options = [];
-  theHubSource.map((hub) =>
+  theHubSource.map((hub ,index) =>
     options.push({
-      value: hub,
+      value: index + 1,
       label: hub,
     })
   );

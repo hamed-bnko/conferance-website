@@ -17,6 +17,11 @@ const Suports = ({ lang }) => {
               <img src="./img/logo-npc.svg" alt="s" width="250" />
             </div>
           </div>
+          <div class="col-md-4 col-xs-12" data-aos="fade-dow">
+            <div class="serv ">
+              <img src="./img/work.png" alt="s" width="250" />
+            </div>
+          </div>
         </div>
       </div>
     </section>
